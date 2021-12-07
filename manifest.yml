@@ -1,0 +1,8 @@
+---
+name: VMD
+category: Interactive Apps
+subcategory: GUIs
+role: batch_connect
+description: "This app will launch [VMD] within a [Turbo VNC] server
+  on Buddy. Please note that VMD is currently unable to Operate on GPU nodes. \r\n\r\n[VMD]: https://www.ks.uiuc.edu/Research/vmd/ \r\n[Turbo VNC]: https://www.turbovnc.org/\r\n"
+icon: ''
