@@ -3,9 +3,14 @@ Changes to this project that result in an increase of the major and or minor rev
 
 ## [Unreleased] - Unknown
 
+## [v1.0.1] - 2022-1-19
+### Added
+- Updated icon
+
 ## [v1.0.0] - 2021-12-06
 ### Added
 - Initial commit of current code
 
 [Unreleased]: https://github.com/UCO-HPC/buddy_vmd/compare/v1.0.0...devel
+[v1.0.1]: https://github.com/UCO-HPC/buddy_vmd/releases/tag/v1.0.1
 [v1.0.0]: https://github.com/UCO-HPC/buddy_vmd/releases/tag/v1.0.0
